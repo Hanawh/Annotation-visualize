@@ -133,7 +133,6 @@ if __name__ == "__main__":
     
     length = mydata.len()
     index = random.sample(list(np.arange(0, length)), args.random_number)
-    
     for ind in index:
         mydata.drawBox(ind)
 
