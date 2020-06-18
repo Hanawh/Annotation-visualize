@@ -6,7 +6,7 @@ import numpy as np
 from pycocotools.coco import COCO
 import webcolors
 import random
-import ipdb
+
 
 # please pre-defines before u use this script
 
