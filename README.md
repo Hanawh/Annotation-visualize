@@ -9,4 +9,8 @@ You can use this script to visualize the  annotations for object detection
 ```
 
 ## VOC format : xml
-TO DO
+```python
+ python visualize_voc_annotation.py YOUR_DIR_TO_XMl YOUR_DIR_TO_DATA [random number u want to visualize]
+ # eg. python visualize_coco_annotation.py /home/wh/voc2007/Annotations /home/wh/voc2007/JPEGImages train 10
+ # It will create a directory which includes 10 images with annotations which are selected randomly
+```
