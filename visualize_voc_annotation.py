@@ -5,7 +5,6 @@ import cv2
 import numpy as np
 import webcolors
 import random
-
 # please pre-defines before u use this script
 
 PRE_DEFINE_CATEGORIES =  ['aeroplane', 'bicycle', 'bird', 'boat', 'bottle', 
